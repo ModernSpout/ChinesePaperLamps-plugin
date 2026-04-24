@@ -1,6 +1,5 @@
 package spout.plugin.chinesepaperlamps;
 
-
 import net.kyori.adventure.text.logger.slf4j.ComponentLogger;
 
 public final class CheckSpout {

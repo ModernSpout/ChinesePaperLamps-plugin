@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "The data pack for the Chinese paper lamps plugin",
+    "description": "The data pack for the ChinesePaperLamps plugin",
     "min_format": [94, 1],
     "max_format": [94, 1]
   }
