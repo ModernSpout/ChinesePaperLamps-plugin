@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "chinese_paper_lamps:paper_lamp",
+    "minecraft:torch"
+  ],
+  "result": {
+    "count": 1,
+    "id": "chinese_paper_lamps:lit_paper_lamp"
+  }
+}

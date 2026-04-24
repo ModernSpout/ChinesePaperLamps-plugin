@@ -1,0 +1,17 @@
+name: ChinesePaperLamps
+description: $description
+version: '$version'
+
+main: spout.plugin.chinesepaperlamps.ChinesePaperLampsPlugin
+bootstrapper: spout.plugin.chinesepaperlamps.ChinesePaperLampsPluginBootstrap
+api-version: '1.21.11'
+load: POSTWORLD
+namespaces:
+  chinese_paper_lamps: Chinese paper lamps
+
+authors:
+  - Martijn Muijsers
+contributors:
+  - 4J Studios
+  - Mojang
+website: https://github.com/ModernSpout/ChinesePaperLamps-plugin

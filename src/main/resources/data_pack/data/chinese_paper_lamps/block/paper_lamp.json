@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "properties": {
+    "map_color": "minecraft:raw_iron",
+    "sound_type": "minecraft:big_dripleaf",
+    "explosion_resistance": 0.1,
+    "destroy_time": 0.03,
+    "instrument": "minecraft:snare"
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:redstone_lamp"
+    }
+  ]
+}
