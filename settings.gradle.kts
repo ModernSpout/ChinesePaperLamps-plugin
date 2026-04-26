@@ -1,1 +1,1 @@
-rootProject.name = "ChinesePaperLamps-plugin"
+rootProject.name = "ChinesePaperLamps"
