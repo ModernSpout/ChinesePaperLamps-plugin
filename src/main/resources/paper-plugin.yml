@@ -4,7 +4,7 @@ version: '$version'
 
 main: spout.plugin.chinesepaperlamps.ChinesePaperLampsPlugin
 bootstrapper: spout.plugin.chinesepaperlamps.ChinesePaperLampsPluginBootstrap
-api-version: '1.21.11'
+api-version: '26.1.2'
 load: POSTWORLD
 namespaces:
   chinese_paper_lamps: Chinese paper lamps
