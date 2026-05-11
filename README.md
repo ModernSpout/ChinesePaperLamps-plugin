@@ -5,7 +5,7 @@
   </h1>
 
 [![Discord](https://img.shields.io/discord/1091830813240348732?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/EduvcVmKS7)
-[![1.21.11](https://img.shields.io/badge/Latest_version-1.21.11-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/ChinesePaperLamps-plugin/releases/download/1.0/ChinesePaperLamps-1.0.jar)
+[![26.1.2](https://img.shields.io/badge/Latest_version-26.1.2-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/ChinesePaperLamps-plugin/releases/download/1.1/ChinesePaperLamps-1.1.jar)
 
 <a href="design/lantern.png"><img src="design/lantern_small.png"></a>
 
@@ -33,7 +33,7 @@ Adds fully server-side Chinese paper lamps, lit and unlit.
 
 * From [Hangar](https://hangar.papermc.io/Spout/ChinesePaperLamps)
 * Directly from GitHub:
-  * [Latest version: 1.0 (MC 1.21.11)](https://github.com/ModernSpout/ChinesePaperLamps-plugin/releases/download/1.0/ChinesePaperLamps-1.0.jar)
+  * [Latest version: 1.1 (MC 26.1.2)](https://github.com/ModernSpout/ChinesePaperLamps-plugin/releases/download/1.1/ChinesePaperLamps-1.1.jar)
   * Development versions: download from
     [Actions](https://github.com/ModernSpout/ChinesePaperLamps-plugin/actions/workflows/build.yml),
     under **Artifacts**
