@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/discord/1091830813240348732?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/EduvcVmKS7)
 [![26.1.2](https://img.shields.io/badge/Latest_version-26.1.2-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/ChinesePaperLamps-plugin/releases/download/1.1/ChinesePaperLamps-1.1.jar)
 
-<a href="design/lantern.png"><img src="design/lantern_small.png"></a>
+<a href="design/lantern.png"><img alt="Screenshot of a paper lamp" src="design/lantern_small.png"></a>
 
 </div>
 
@@ -18,13 +18,13 @@ Adds fully server-side Chinese paper lamps, lit and unlit.
 <table>
   <tr>
     <td>
-      <a href="design/crafting_paper_lamp.png"><img src="design/crafting_paper_lamp.png"></a>
+      <a href="design/crafting_paper_lamp.png"><img alt="Crafting recipe for a paper lamp" src="design/crafting_paper_lamp.png"></a>
     </td>
     <td>
-      <a href="design/crafting_lit_paper_lamp.png"><img src="design/crafting_lit_paper_lamp.png"></a>
+      <a href="design/crafting_lit_paper_lamp.png"><img alt="Crafting recipe for a lit paper lamp" src="design/crafting_lit_paper_lamp.png"></a>
     </td>
     <td>
-      <a href="design/crafting_lit_paper_lamp_from_paper_lamp.png"><img src="design/crafting_lit_paper_lamp_from_paper_lamp.png"></a>
+      <a href="design/crafting_lit_paper_lamp_from_paper_lamp.png"><img alt="Crafting recipe to light an unlit paper lamp" src="design/crafting_lit_paper_lamp_from_paper_lamp.png"></a>
     </td>
   </tr>
 </table>
